@@ -1,6 +1,10 @@
 {
   "name": "simple-http-assignment-start",
   "version": "1.0.0",
+  "engines": {
+    "node": "9.2.0",
+    "npm": "6.1.0"
+  },
   "description": "Simple HTTP",
   "main": "src/server.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C../\u001b[C\u001b[2~../src/server.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[",
   "scripts": {
